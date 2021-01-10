@@ -1,3 +1,17 @@
+# Songs App
+
+The application is very simple and displays a list of songs on left side , when selected by clicking the select button, will open a song detail component for that particular selection on the right side.
+It is just a demonstration how to get React and Redux then to work together.
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
