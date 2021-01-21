@@ -3,6 +3,20 @@
 The application is very simple and displays a list of songs on left side , when selected by clicking the select button, will open a song detail component for that particular selection on the right side.
 It is just a demonstration how to get React and Redux then to work together.
 
+Screengrab:
+![react1.png](ss/react1.PNG)
+
+![react2.png](ss/react2.PNG)
+
+![react3.png](ss/react3.PNG)
+
+![react4.png](ss/react4.PNG)
+
+![react6.png](ss/react6.PNG)
+
+![react7.png](ss/react7.PNG)
+
+
 
 
 
